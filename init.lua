@@ -4,7 +4,7 @@ end
 
 local from_disk = true
 local easier_debug = true
-local github_branch = "Upbolt/Hydroxide/master"
+local github_branch = "TDBOfficial/Hydroxide/master"
 
 getgenv().oh = {}
 oh.events = {}
